@@ -16,11 +16,11 @@ This project is an AI-powered chatbot built using Llama 2 as the language model.
 - Interactive chat experience (to be fully implemented).
 
 ## Installation
-1. Clone the repository:
+1\) Clone the repository:
    ```bash
    git clone https://github.com/Arhaans/AI-Chatbot.git
    ```
-2.) Navigate to the project directory
+2\) Navigate to the project directory
 ```bash
   cd AI-Chatbot
 ```
